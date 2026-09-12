@@ -1,0 +1,16 @@
+{
+  "name": "BookCraft — Book to PDF Creator",
+  "short_name": "BookCraft",
+  "description": "Write, design, and export a professionally formatted book as a PDF — entirely in your browser.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ECE5D4",
+  "theme_color": "#7A2331",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
